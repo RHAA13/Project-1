@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, December 3, 2024 9:14:12 PM</msg><msg code="1" type="100">﻿Traceback (most recent call last):
+﻿  File "&lt;string&gt;", line 70, in execute
+﻿  File "C:\Users\Owner\OneDrive\Desktop\Project 1\project1.py", line 43, in importNOTaxJSON
+﻿    arcpy.management.AddField(fc_fullname,field_name=field_name,field_type=field_type[ind])
+﻿                                                                           ~~~~~~~~~~^^^^^
+﻿IndexError: list index out of range
+</msg><msg code="-2147467259" type="100">Failed to execute (Tool).</msg><msg code="0" type="3">Failed at Tuesday, December 3, 2024 9:14:13 PM (Elapsed Time: 0.85 seconds)</msg></messages>
